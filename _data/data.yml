@@ -3,18 +3,18 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Doo-Hyun Kim
-    tagline: c++, JAVA, Android, Unity
+    tagline: c++, JAVA, Android, Unity 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: tyrue2@gmail.com
     phone: 010-6684-5530  
-    website: tyrue.github.io #do not add http://
+    website: blog.naver.com/kdh9426 #do not add http://
     linkedin: doo-hyun-kim-85b992173
     github: tyrue
     gitlab:

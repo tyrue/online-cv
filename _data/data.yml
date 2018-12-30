@@ -7,41 +7,47 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Doo-Hyun Kim
+    tagline: c++, JAVA, Android, Unity
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: tyrue2@gmail.com
+    phone: 010-6684-5530  
+    website: tyrue.github.io #do not add http://
+    linkedin: doo-hyun-kim-85b992173
+    github: tyrue
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Intermediate
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Japanese
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Traveling
         link:
 
-      - item: Snowboarding
+      - item: Skiing
         link:
 
-      - item: Cooking
+      - item: Play piano
+        link:
+      
+      - item: Play game
+        link:
+      
+      - item: Listening music
         link:
 
 career-profile:
@@ -56,22 +62,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Computer Science and Engineering
+      university: Korea University of Technology and Education (Koreatech) 
+      time: 2013 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -178,23 +171,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Java
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Android
+        level: 65%
+
+      - name: HTML5 & CSS
+        level: 50%
+
+      - name: PHP
+        level: 60%
+
+      - name: c++
+        level: 70%
+
+      - name: c#
+        level: 50%
+
+      - name: Unity
+        level: 70%
+
+      - name: Arduino
+        level: 50%
+
+      - name: Raspberry PI
+        level: 50%
+
+      - name: Photoshop
+        level: 40%

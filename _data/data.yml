@@ -82,22 +82,17 @@ projects:
     intro: >
 
     assignments:
-      - title: Velocity
+      - title: 
         link: "#hook"
         tag: "test"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: ""
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+    title: Rewords
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency

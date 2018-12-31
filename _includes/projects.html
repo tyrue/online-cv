@@ -23,8 +23,13 @@
         <a href="{{ project.link }}">{{ project.title }}</a>
       </span>
 
+      {% if project.tag %}
+        <span class="project-tag"> {{ project.tag }}</span>
+      {% endif %}
+      <br>
+
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+        <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->

@@ -11,7 +11,7 @@
   </h2>
 
   <div class="skillset">
-    {% for skill in skills.toolset | dictsort:0 %}
+    {% for skill in skills.toolset|dictsort:1 %}
     <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>

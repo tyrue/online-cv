@@ -11,8 +11,7 @@
   </h2>
 
   <div class="skillset">
-    {% skills.toolset.get_queryset().active().has_embed().order_by('level')%}
-    {% for skill in skills.toolset %}
+    {% for skill in skills.toolset|dictsort:"level" %}
     <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>

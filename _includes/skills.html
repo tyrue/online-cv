@@ -11,7 +11,7 @@
   </h2>
 
   <div class="skillset">
-
+    {% skills.toolset.get_queryset().active().has_embed().order_by('level')%}
     {% for skill in skills.toolset %}
     <div class="item">
 

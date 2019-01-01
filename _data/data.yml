@@ -129,43 +129,46 @@ projects:
 publications:
     title: Rewords
     papers:
-      - title: 
-        authors: 
+      - title: 2018 Graduated Works Industry Review Meeting(2018 졸업작품 산업체 평가회)
+        authors: IT convergence software manpower business director(IT융합소프트웨어 인력양성사업단장)
         conference: 
+        I was awarded a silver award at the graduation work evaluation meeting of the computer engineering department.
+        컴퓨터공학부 졸업작품 평가회에서 은상을 수여받았음
+        link: "https://github.com/tyrue/Graduation_project"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: C++
+        level: 65%
+      
+      - name: Unity
+        level: 65%
+
       - name: Python
-        level: 70%
+        level: 60%
 
       - name: Java
         level: 60%
 
       - name: Android
-        level: 65%
-
-      - name: HTML5 & CSS
-        level: 50%
-
-      - name: PHP
         level: 60%
 
-      - name: C++
-        level: 70%
+      - name: PHP
+        level: 50%
 
       - name: C#
         level: 50%
-
-      - name: Unity
-        level: 70%
 
       - name: Arduino
         level: 50%
 
       - name: Raspberry PI
         level: 50%
+
+      - name: HTML5 & CSS
+        level: 45%
 
       - name: Photoshop
         level: 40%

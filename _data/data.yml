@@ -93,48 +93,48 @@ projects:
         tag: "Wep"
         tagline: ""
 
-    assignments:
-      - title: MAZE escape(미로 찾기 알고리즘)
-        link: "https://github.com/tyrue/3th_algorithm"
-        tag: "Algorithm"
-        tagline: ""
+    # assignments:
+    #   - title: MAZE escape(미로 찾기 알고리즘)
+    #     link: "https://github.com/tyrue/3th_algorithm"
+    #     tag: "Algorithm"
+    #     tagline: ""
       
-    assignments:
-      - title: Measure the angle of the shoe using the acceleration sensor(가속도 센서를 이용한 신발의 각도 측정)
-        link: "https://github.com/tyrue/3th_Engineering-design2"
-        tag: "Arduino"
-        tagline: ""
+    # assignments:
+    #   - title: Measure the angle of the shoe using the acceleration sensor(가속도 센서를 이용한 신발의 각도 측정)
+    #     link: "https://github.com/tyrue/3th_Engineering-design2"
+    #     tag: "Arduino"
+    #     tagline: ""
       
-    assignments:
-      - title: Interactive cooking recipe(대화형 요리 레시피)
-        link: "https://github.com/tyrue/3th_Mobile_programing"
-        tag: "Android"
-        tagline: ""
+    # assignments:
+    #   - title: Interactive cooking recipe(대화형 요리 레시피)
+    #     link: "https://github.com/tyrue/3th_Mobile_programing"
+    #     tag: "Android"
+    #     tagline: ""
 
-    assignments:
-      - title: Chat server & client(채팅 서버와 클라이언트)
-        link: "https://github.com/tyrue/4th_Network_Programing"
-        tag: "Network"
-        tagline: ""
+    # assignments:
+    #   - title: Chat server & client(채팅 서버와 클라이언트)
+    #     link: "https://github.com/tyrue/4th_Network_Programing"
+    #     tag: "Network"
+    #     tagline: ""
 
-    assignments:
-      - title: Mobile-System projects(모바일 시스템 프로젝트들)
-        link: "https://github.com/tyrue/4th_Mobile-System"
-        tag: "Android"
-        tagline: ""
+    # assignments:
+    #   - title: Mobile-System projects(모바일 시스템 프로젝트들)
+    #     link: "https://github.com/tyrue/4th_Mobile-System"
+    #     tag: "Android"
+    #     tagline: ""
 
-    assignments:
-      - title: VR Rehabilitation Exercise development for Elderly people’s muscle using multiple wireless controllers
-        link: "https://github.com/tyrue/Graduation_project"
-        tag: "Unity, C#"
-        tagline: ""
+    # assignments:
+    #   - title: VR Rehabilitation Exercise development for Elderly people’s muscle using multiple wireless controllers
+    #     link: "https://github.com/tyrue/Graduation_project"
+    #     tag: "Unity, C#"
+    #     tagline: ""
 
-    assignments:
-      - title: Intelligent-Image-Processing(지능형 영상처리 프로젝트들)
-        link: "https://github.com/tyrue/4th_Intelligent-Image-Processing"
-        tag: "C++, openCV"
-        tagline: ""
-        
+    # assignments:
+    #   - title: Intelligent-Image-Processing(지능형 영상처리 프로젝트들)
+    #     link: "https://github.com/tyrue/4th_Intelligent-Image-Processing"
+    #     tag: "C++, openCV"
+    #     tagline: ""
+
 publications:
     title: Rewords
     papers:
@@ -161,10 +161,10 @@ skills:
       - name: PHP
         level: 60%
 
-      - name: c++
+      - name: C++
         level: 70%
 
-      - name: c#
+      - name: C#
         level: 50%
 
       - name: Unity

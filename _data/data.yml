@@ -126,6 +126,11 @@ projects:
         tag: "C++, openCV"
         tagline: ""
 
+      - title: Embedded-Application(임베디드 응용 프로젝트들)
+        link: "https://github.com/tyrue/4th_Embedded-Application"
+        tag: "Python, openCV, Google_API"
+        tagline: ""
+
 publications:
     title: Rewords
     papers:
